@@ -31,15 +31,9 @@ a {
 .logo-studio {
     
     font-family: "Raleway", sans-serif
-    font-weight: 700;
-    font-size: 18px;
-    line-height: 1.17;
-    letter-spacing: 0.03em'
-    text-transform: uppercase;
-    color: #ffffff
+   
     
 }
-
 
 .header-background {
     background-color: #ffffff;
@@ -258,14 +252,12 @@ p {
             font-size: 18px;
             line-height: 1.17;
             letter-spacing: 0.03em;
-      }
+}
           .logo-studio-footer {
-            font-family: "Raleway", sans-serif font-weight: 700;
-            font-size: 18px;
-            line-height: 1.17;
-            letter-spacing: 0.03em'
-            text-transform: uppercase;
             color: #ffffff;
-          }
+            font-family: "Raleway", sans-serif 
+           
+        }
+
     
       
