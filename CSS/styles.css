@@ -21,8 +21,8 @@ a {
     font-family: 'Raleway', sans-serif;
     color: var(--color-axion);
     font-weight: 700;
-    font-size: 18px;
-    line-height: 1.17;
+    font-size: 26px;
+    line-height: 1.192;
     letter-spacing: 0.03em;
 }
 
@@ -146,7 +146,7 @@ p {
 }
 
 .team-subtitle {
-    text-align: center;
+    text-align: left;
     font-weight: 500;
     font-size: 16px;
     line-height: 1.188;
@@ -154,7 +154,7 @@ p {
 }
 
 .profesion {
-    text-align: center;
+    text-align: left;
     font-weight: 400;
     font-size: 16px;
     line-height: 1.188;
@@ -176,39 +176,6 @@ p {
     font-size: 14px;
     line-height: 1.714;
     letter-spacing: 0.03em;
-}
-
-.footer-email {
-    color: rgba(255, 255, 255, 0.6);
-    font-weight: 400;
-    font-size: 14px;
-    line-height: 1.714;
-    letter-spacing: 0.03em;
-    cursor: pointer;
-}
-
-.footer-email:hover {
-    color: var(--color-axion);
-}
-
-.footer-email:focus {
-    color: var(--color-axion);
-}
-
-.footer-num {
-    color: rgba(255, 255, 255, 0.6);
-    font-weight: 400;
-    font-size: 14px;
-    line-height: 1.714;
-    letter-spacing: 0.03em;
-}
-
-.footer-num:hover {
-    color: var(--color-axion);
-}
-
-.footer-num:focus {
-    color: var(--color-axion);
 }
 
 
