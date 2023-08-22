@@ -12,7 +12,7 @@
     background-color: #FFFFFF;
     font-style: normal;
     color: #434455;
-    
+
 }
 
 a {
@@ -29,10 +29,8 @@ a {
 }
 
 .logo-studio {
-    
+
     font-family: "Raleway", sans-serif
-   
-    
 }
 
 .header-background {
@@ -245,31 +243,32 @@ p {
 }
 
 .footer-background {
-    background-color: #2e2f42  
+    background-color: #2e2f42
 }
 
-.logo-studio-footer{
+.logo-studio-footer {
     color: #f4f4fd
 }
+
 .logo-footer {
-    
-            font-family: 'Raleway', sans-serif;
-            color: #4d5ae5;
-            font-weight: 700;
-            font-size: 18px;
-            line-height: 1.17;
-            letter-spacing: 0.03em;
-            text-transform: uppercase;
-            
+
+    font-family: 'Raleway', sans-serif;
+    color: #4d5ae5;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+
 }
-          .logo-studio-footer {
-            color: #ffffff;
-            font-family: "Raleway", sans-serif 
-        }
-.text{
+
+.logo-studio-footer {
+    color: #ffffff;
+    font-family: "Raleway", sans-serif
+}
+
+.text {
     line-height: 1.5;
-    color: #F4F4FD;  
+    color: #F4F4FD;
     letter-spacing: 0.02em
 }
-    
-      
