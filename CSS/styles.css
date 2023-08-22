@@ -20,10 +20,10 @@ a {
 
 .logo {
     font-family: 'Raleway', sans-serif;
-    color: var(--color-axion);
+    color: #4d5ae5;
     font-weight: 700;
-    font-size: 26px;
-    line-height: 1.192;
+    font-size: 18px;
+    line-height: 1.17;
     letter-spacing: 0.03em;
 }
 
@@ -37,13 +37,7 @@ a {
     text-transform: uppercase;
     color: #2e2f42
 }
-.logo{
-    font-family: "Raleway", sans-serif font-weight: 700;
-        font-size: 18px;
-        line-height: 1.17;
-        letter-spacing: 0.03em'
-        color: #4d5ae5
-}
+
 
 .header-background {
     background-color: #ffffff;
