@@ -8,9 +8,10 @@
 }
 
 body {
-    font-family: 'Roboto', sans-serif;
+    font-family: "Roboto", sans-serif
     font-style: normal;
     color: #434455;
+    background-color: #ffffff;
 }
 
 a {
