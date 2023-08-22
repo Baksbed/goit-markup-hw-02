@@ -7,7 +7,7 @@
 
 }
 
-body {
+.body-background {
     font-family: "Roboto", sans-serif;
     background-color: #FFFFFF;
     font-style: normal;
@@ -244,6 +244,13 @@ p {
     letter-spacing: 0.03em;
 }
 
+.footer-background {
+    background-color: #2e2f42  
+}
+
+.logo-studio-footer{
+    color: #f4f4fd
+}
 .logo-footer {
     
             font-family: 'Raleway', sans-serif;
@@ -252,12 +259,16 @@ p {
             font-size: 18px;
             line-height: 1.17;
             letter-spacing: 0.03em;
+            text-transform: uppercase;
 }
           .logo-studio-footer {
             color: #ffffff;
             font-family: "Raleway", sans-serif 
-           
         }
-
+.text{
+    line-height: 1.5;
+    color: #F4F4FD;  
+    letter-spacing: 0.02em
+}
     
       
