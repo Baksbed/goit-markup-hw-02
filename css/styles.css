@@ -26,12 +26,13 @@ a {
     font-size: 18px;
     line-height: 1.17;
     letter-spacing: 0.03em;
+    text-transform: uppercase;
 }
 
 .logo-studio {
-    
+    color: #2e2f42
     font-family: "Raleway", sans-serif
-   
+    
     
 }
 
@@ -260,6 +261,7 @@ p {
             line-height: 1.17;
             letter-spacing: 0.03em;
             text-transform: uppercase;
+            
 }
           .logo-studio-footer {
             color: #ffffff;
