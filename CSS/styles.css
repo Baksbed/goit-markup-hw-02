@@ -3,14 +3,14 @@
     --color-primary: #212121;
 
     --color-secondary: #757575;
-    --color-white: #fff;
+    --color-white: #ffffff;
 
 }
 
 body {
     font-family: 'Roboto', sans-serif;
     font-style: normal;
-    color: var(--color-primary);
+    color: #434455;
 }
 
 a {
@@ -31,7 +31,7 @@ a {
 }
 
 .header-background {
-    background-color: #FFFFFF;
+    background-color: #ffffff;
 }
 
 .header-link {
