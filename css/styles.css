@@ -79,13 +79,10 @@ a {
     font-style: normal
 }
 
-.header-email:hover {
+.header-email:hover,.header-email:focus {
     color: #404bbf;
 }
  
-.header-email:focus {
-    color: #404bbf;
-}
 
 .header-num {
     color: #434455;
