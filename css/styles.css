@@ -155,13 +155,18 @@ a {
 .team {
 background-color: #F4F4FD
 }
+
+.last-section {
+    background-color: #F5F4FA;
+    text-transform: capitalize
+}
+
 .heading-title {
     font-weight: 700;
     font-size: 36px;
     line-height: 1.11;
     letter-spacing: 0.03em;
     background-color: #2e2f42
-    text-transform: capitalize
     
 }
 
@@ -187,16 +192,16 @@ background-color: #F4F4FD
     color #434455
 }
 
-.last-section {
-    background-color: #F5F4FA;
-}
+
 .heading-title {
         font-family: Roboto;
         font-size: 36px;
         font-weight: 700;
-        line-height: 40px;
+        line-height: 1.11;
         letter-spacing: 0.02em;
         text-align: center;
+        text-transform: capitalize;
+        color: #2e2f42;
 }
 
 .subtitle {
@@ -206,6 +211,7 @@ background-color: #F4F4FD
         line-height: 24px;
         letter-spacing: 0.02em;
         text-align: left;
+        
 }
 
 .paragraf-prof {
