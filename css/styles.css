@@ -33,7 +33,7 @@ a {
     background-color: #ffffff;
 }
 
-.header-link header-addres {
+.header-link {
     text-decoration: none;
     font-size: 16px;
     line-height: 1.5;
@@ -42,15 +42,52 @@ a {
     color: #2e2f42
 }
 
-.header-link:hover,.haeder-link:focus{
+.header-link:hover {
     color: #404bbf;
 }
 
-.header-addres {
-    color: #434455;
+.haeder-link:focus {
+    color: #404bbf;
 }
-.main_addres {
- font-style: normal;   
+
+.active-link {
+    color: #404bbf;
+    text-decoration: none;
+    font-size: 16px;
+    line-height: 1.5;
+    font-weight: 500;
+    letter-spacing: 0.02em
+}
+.main_addres{
+    font-style: normal
+}
+.header-email {
+    color: #434455;
+    text-decoration: none;
+    font-size: 16px;
+    line-height: 1.5;
+    font-weight: 500;
+    letter-spacing: 0.02em;
+    font-style: normal
+}
+
+.header-email:hover,.header-email:focus {
+    color: #404bbf;
+    
+}
+
+.header-num {
+    color: #434455;
+    text-decoration: none;
+    font-size: 16px;
+    line-height: 1.5;
+    font-weight: 500;
+    letter-spacing: 0.02em;
+    font-style: normal;
+}
+
+.header-num:hover,.header-num:focus {
+    color: #404bbf;
 }
 
 .hero-section {
