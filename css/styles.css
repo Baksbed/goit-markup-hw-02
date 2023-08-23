@@ -123,11 +123,11 @@ a {
     cursor: pointer;
 }
 .big-button:hover {
-    color: #404BBF;
+    background-color: #404BBF;
 }
 
 .big-button:focus {
-    color: #404BBF;
+    background-color: #404BBF;
 }
 
 .heading-subtitle {
