@@ -69,7 +69,7 @@ font-style: normal;
 .header-addres:focus { 
     color: #404bbf;
 }
-.header-num {
+.header-addres {
     color: #434455;
     text-decoration: none;
     font-size: 16px;
@@ -79,10 +79,10 @@ font-style: normal;
     font-style: normal;
 }
 
-.header-num:hover {
+.header-addres:hover {
 color: #404bbf;
 }
-.header-num:focus {
+.header-addres:focus {
 color: #404bbf;
 }
 .hero-section {
