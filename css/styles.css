@@ -93,9 +93,6 @@ a {
     font-style: normal;
 }
 
-.header-num:hover.header-num:focus {
-    color: #404bbf;
-}
 
 .hero-section {
     background-color: #2e2f42;
