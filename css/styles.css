@@ -42,13 +42,10 @@ a {
     color: #2e2f42
 }
 
-.header-link:hover {
+.header-link:hover,.haeder-link:focus{
     color: #404bbf;
 }
 
-.haeder-link:focus {
-    color: #404bbf;
-}
 
 .main_addres{
     font-style: normal
