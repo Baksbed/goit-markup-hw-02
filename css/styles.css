@@ -48,7 +48,9 @@ a {
 .haeder-link:focus {
     color: #404bbf;
 }
-
+.main_addres {
+    font-style: normal;
+}
 .header-addres {
     color: #434455;
     text-decoration: none;
