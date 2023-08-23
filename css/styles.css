@@ -82,7 +82,6 @@ a {
 .header-email:hover,.header-email:focus {
     color: #404bbf;
 }
- 
 
 .header-num {
     color: #434455;
@@ -94,11 +93,7 @@ a {
     font-style: normal;
 }
 
-.header-num:hover {
-    color: #404bbf;
-}
-
-.header-num:focus {
+.header-num:hover.header-num:focus {
     color: #404bbf;
 }
 
