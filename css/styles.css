@@ -42,9 +42,13 @@ a {
     color: #2e2f42
 }
 
-.header-link:hover,.haeder-link:focus{
+.header-link:hover {
     color: #404bbf;
 }
+.haeder-link:focus{
+    color: #404bbf;
+}
+
 
 .header-addres {
     color: #434455;
@@ -56,10 +60,12 @@ a {
     font-style: normal
 }
 
-.header-addres:hover,.header-addres:focus {
+.header-addres:hover {
     color: #404bbf;
 }
-
+.header-addres:focus { 
+    color: #404bbf;
+}
 .header-num {
     color: #434455;
     text-decoration: none;
@@ -70,10 +76,12 @@ a {
     font-style: normal;
 }
 
-.header-num:hover,.header-num:focus {
-    color: #404bbf;
+.header-num:hover {
+color: #404bbf;
 }
-
+.header-num:focus {
+color: #404bbf;
+}
 .hero-section {
     background-color: #2e2f42;
 }
