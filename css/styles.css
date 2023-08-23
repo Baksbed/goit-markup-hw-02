@@ -73,6 +73,7 @@ a {
     line-height: 1.5;
     font-weight: 500;
     letter-spacing: 0.02em;
+    font-style: normal
 }
 
 .header-email:hover {
@@ -84,12 +85,13 @@ a {
 }
 
 .header-num {
-    color: var(--color-secondary);
+    color: #434455;
     text-decoration: none;
     font-size: 14px;
     line-height: 1.143;
     font-weight: 500;
     letter-spacing: 0.02em;
+    font-style: normal
 }
 
 .header-num:hover {
