@@ -42,7 +42,7 @@ a {
     color: #2e2f42
 }
 
-.header-link header-addres:hover,.haeder-link header-addres:focus{
+.header-link:hover,.haeder-link:focus{
     color: #404bbf;
 }
 
