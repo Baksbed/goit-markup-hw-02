@@ -80,8 +80,7 @@ a {
 }
 
 .header-email:hover,.header-email:focus {
-    color: #404bbf;
-}
+    background-color: #404BBF;
 
 .header-num {
     color: #2e2f42;
@@ -94,7 +93,7 @@ a {
 }
 
 .header-num:hover.header-num:focus {
-    color: #404bbf;
+    background-color: #404BBF;
 }
 
 .hero-section {
