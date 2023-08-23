@@ -148,9 +148,11 @@ a {
 }
 
 .team {
-background-color: #FFFFFF;
+background-color: #F4F4FD;
 }
-
+.team-fon{
+    background-color: #F4F4FD;
+}
 .last-section {
     background-color: #F5F4FA;
     text-transform: capitalize;
