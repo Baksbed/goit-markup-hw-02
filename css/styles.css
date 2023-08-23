@@ -93,7 +93,7 @@ a {
     font-style: normal;
 }
 
-.header-num:hover.header-num:focus {
+.header-num:hover,.header-num:focus {
     color: #404bbf;
 }
 
