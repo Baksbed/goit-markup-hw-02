@@ -50,7 +50,7 @@ a {
 .main_addres{
     font-style: normal
 }
-.header-email {
+.header-addres {
     color: #434455;
     text-decoration: none;
     font-size: 16px;
@@ -60,9 +60,8 @@ a {
     font-style: normal
 }
 
-.header-email:hover,.header-email:focus {
+.header-addres:hover,.header-addres:focus {
     color: #404bbf;
-    
 }
 
 .header-num {
