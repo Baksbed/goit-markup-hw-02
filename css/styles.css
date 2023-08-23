@@ -94,7 +94,7 @@ a {
     line-height: 1.143;
     font-weight: 500;
     letter-spacing: 0.02em;
-    font-style: normal
+    font-style: normal;
 }
 
 .header-num:hover {
@@ -156,12 +156,12 @@ a {
 }
 
 .team {
-background-color: #F4F4FD
+background-color: #F4F4FD;
 }
 
 .last-section {
     background-color: #F5F4FA;
-    text-transform: capitalize
+    text-transform: capitalize;
    
 }
 
@@ -170,8 +170,8 @@ background-color: #F4F4FD
     font-size: 36px;
     line-height: 1.11;
     letter-spacing: 0.03em;
-    background-color: #2e2f42
-    color: #ffffff
+    background-color: #2e2f42;
+    color: #ffffff;
 }
 
 .team-subtitle {
@@ -181,8 +181,8 @@ background-color: #F4F4FD
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
-    background-color: #FFFFFF
-    color #2E2F42 
+    background-color: #FFFFFF;
+    color #2E2F42 ;
 }
 
 .profesion {
@@ -192,8 +192,8 @@ background-color: #F4F4FD
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    background-color:#FFFFFF
-    color #434455
+    background-color:#FFFFFF;
+    color #434455;
 }
 
 
@@ -228,7 +228,7 @@ background-color: #F4F4FD
 }
 
 .logo-studio-footer {
-    color: #f4f4fd
+    color: #f4f4fd;
 }
 
 .logo-footer {
@@ -254,7 +254,7 @@ background-color: #F4F4FD
 
 .logo-studio {
     color: #2E2F42;
-    font-family: "Raleway", sans-serif
+    font-family: "Raleway", sans-serif;
 }
 .text {
     font-family: Roboto;
@@ -272,6 +272,6 @@ background-color: #F4F4FD
         color: #ffffff;
 }
 .footer-background {
-    background-color: #2e2f42 
+    background-color: #2e2f42;
     
 }
