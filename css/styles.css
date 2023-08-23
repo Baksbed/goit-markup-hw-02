@@ -159,6 +159,7 @@ background-color: #F4F4FD
 .last-section {
     background-color: #F5F4FA;
     text-transform: capitalize
+   
 }
 
 .heading-title {
@@ -167,7 +168,7 @@ background-color: #F4F4FD
     line-height: 1.11;
     letter-spacing: 0.03em;
     background-color: #2e2f42
-    
+    color: #2e2f42
 }
 
 .team-subtitle {
