@@ -1,16 +1,14 @@
 
 
 .body-background {
-    font-family: "Roboto", sans-serif;
     background-color: #FFFFFF;
-    font-style: normal;
     color: #434455;
 
 }
 
 a {
     text-decoration: none;
-    text-transform: uppercase
+
 }
 
 .logo {
@@ -34,10 +32,8 @@ a {
 }
 
 .header-link {
-    text-decoration: none;
     font-size: 16px;
     line-height: 1.5;
-    font-weight: 500;
     letter-spacing: 0.02em;
     color: #2e2f42;
 }
@@ -55,7 +51,6 @@ font-style: normal;
 
 .header-addres {
     color: #434455;
-    text-decoration: none;
     font-size: 16px;
     line-height: 1.5;
     font-weight: 500;
@@ -103,7 +98,6 @@ color: #404bbf;
 }
 
 .heading-subtitle {
-    text-transform: uppercase;
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -123,78 +117,50 @@ color: #404bbf;
 background-color: #F4F4FD;
 }
 
-.team-fon {
-background-color: #FFFFFF;
-}
-
-.last-section {
-    background-color: #F5F4FA;
-    text-transform: capitalize;
-   
-}
-
-.heading-title {
-    font-weight: 700;
-    font-size: 36px;
-    line-height: 1.11;
-    letter-spacing: 0.03em;
-    background-color: #2e2f42;
-    color: #ffffff;
-}
 
 
 .team-subtitle {
-    font-family: roboto;
     text-align: center;
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
-    background-color: #FFFFFF;
     color: #2e2f42;
 }
 
 .profesion {
-    font-family: roboto;
     text-align: center;
     font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    background-color:#FFFFFF;
     color: #434455;
 }
 
 
 .heading-title {
-        font-family: Roboto;
         font-size: 36px;
         font-weight: 700;
         line-height: 1.11;
         letter-spacing: 0.02em;
         text-align: center;
-        text-transform: capitalize;
         color: #2e2f42;
 }
 
 .subtitle {
-        font-family: Roboto;
         font-size: 20px;
         font-weight: 500;
         line-height: 24px;
         letter-spacing: 0.02em;
-        text-align: left;
         color: #2e2f42;
         
 }
 
 .paragraf-prof {
-        font-family: Roboto;
         font-size: 16px;
         font-weight: 400;
         line-height: 24px;
         letter-spacing: 0.02em;
-        text-align: left;
 }
 
 .logo-studio-footer {
@@ -228,18 +194,10 @@ background-color: #FFFFFF;
     font-family: "Raleway", sans-serif;
 }
 .text {
-    font-family: Roboto;
+    
         font-size: 16px;
-        font-weight: 400;
         line-height: 24px;
         letter-spacing: 0.02em;
-        text-align: left;
-        font-family: Roboto;
-        font-size: 16px;
-        font-weight: 400;
-        line-height: 24px;
-        letter-spacing: 0.02em;
-        text-align: left;
         color: #F4F4FD;
 
 }
