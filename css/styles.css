@@ -144,7 +144,7 @@ background-color: #F4F4FD;
         letter-spacing: 0.02em;
         text-align: center;
         color: #2e2f42;
-        text-transform: capitalize
+        
 }
 
 .subtitle {
@@ -153,6 +153,7 @@ background-color: #F4F4FD;
         line-height: 1.2px;
         letter-spacing: 0.02em;
         color: #2e2f42;
+        text-transform: capitalize;
         
 }
 
